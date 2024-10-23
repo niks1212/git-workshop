@@ -1,0 +1,8 @@
+git init
+git add filename
+git status
+git rm --cached
+git commit -m " "
+git restore filename
+git push 
+git pull 
